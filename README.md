@@ -4,34 +4,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/john-safwat-b3645427a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.behance.net/johnsafwat" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
-  </a>
-  <a href="johnsafwat362@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/john_s_911/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/787110639083978833" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://wa.me/01204984211" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.facebook.com/john.safwat.77" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=john-safwat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=john-safwat&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
@@ -61,7 +33,35 @@
 
 ###
 
-<p align="left">Welcome to the vibrant world of technology! I'm John Safwat, a Flutter Mobile Developer driven by innovation.<br><br>With a year in Flutter development, I create both functional and visually appealing applications. My focus on excellence includes employing design patterns and adhering to SOLID principles for efficient and scalable code. Beyond Flutter, I'm skilled in back-end development using Laravel, PHP, and SQL.<br><br>I value collaboration and communication. Exceptional apps stem from partnerships between developers and clients. Open communication and adaptability are vital in the ever-evolving tech landscape. I pride myself on exceeding expectations and delivering smooth user experiences.<br><br>My journey doesn't end here. I'm diving into Android Native development for new challenges. Continuous growth fuels my passion, and every project is an opportunity to refine my skills.<br><br>Beyond coding, I'm personable, dedicated, and enthusiastic about collaborating with you. Your success drives mine, and I'm eager to contribute to making your app a success.<br><br>Thank you for visiting my website. Whether you're a developer, potential client, or tech enthusiast, I'm excited about the opportunity to work together. Let's turn ideas into reality!</p>
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/john-safwat-b3645427a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.behance.net/johnsafwat" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+  </a>
+  <a href="johnsafwat362@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/john_s_911/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/787110639083978833" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://wa.me/01204984211" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.facebook.com/john.safwat.77" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left">Welcome to the vibrant world of technology! 🌟 I'm John Safwat, a Flutter Mobile Developer driven by innovation and creativity.<br><br>With a year of experience in Flutter development, I specialize in crafting functional and visually stunning applications. Employing design patterns and adhering to SOLID principles, I ensure efficient and scalable code. My expertise extends to back-end development using Laravel, PHP, and SQL.<br><br>I firmly believe in the power of collaboration and communication. Exceptional apps arise from strong partnerships between developers and clients. 🤝 Open lines of communication and adaptability are crucial in navigating the ever-evolving tech landscape. I take pride in exceeding expectations and delivering seamless user experiences.<br><br>But my journey doesn't stop here. I'm venturing into Android Native development, driven by the thrill of new challenges. Continuous growth fuels my passion, and every project is an opportunity to refine and enhance my skills.<br><br>Beyond coding, I bring a personable, dedicated, and enthusiastic approach to collaboration. Your success is my success, and I'm eager to contribute my skills to make your app thrive.<br><br>Thank you for stopping by my website. Whether you're a developer, potential client, or tech enthusiast, I'm excited about the chance to work together. Let's transform your ideas into reality! 🚀✨📱💡🌐</p>
 
 ###
 
