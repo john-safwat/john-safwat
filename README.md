@@ -2,7 +2,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=john-safwat&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=john-safwat&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=john-safwat&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://camo.githubusercontent.com/3c24bbef7a0b02214aa98cd2248e14d9586a10ab817e6b63800e7becfc65ca20/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6a6f686e2d736166776174266c6f63616c653d656e26686964655f7469746c653d66616c7365266c61796f75743d636f6d7061637426636172645f77696474683d333230266c616e67735f636f756e743d3330267468656d653d64726163756c6126686964655f626f726465723d74727565266f726465723d32)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=john-safwat&theme=radical&no-frame=false&no-bg=false&margin-w=4)
